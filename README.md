@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://elomardigital.com"><img alt="Elomar Digital" src="https://img.shields.io/badge/Elomar%20Digital-elomardigital.com-D4AC6A?style=flat-square"></a>
   <a href="https://github.com/sponsors/abobasel86"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white"></a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=abobasel86.elomar-lang"><img alt="VS Code extension" src="https://img.shields.io/visual-studio-marketplace/v/abobasel86.elomar-lang?label=VS%20Code&style=flat-square&color=0f6e63"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=abobasel86.elomar-lang"><img alt="VS Code extension" src="https://img.shields.io/badge/VS%20Code-Marketplace-0f6e63?style=flat-square"></a>
 </p>
 
 ## Hi, I'm Ayman 👋
